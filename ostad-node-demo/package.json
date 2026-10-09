@@ -1,0 +1,7 @@
+{
+  "name": "ostad-devops-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Simple Node.js demo for Ostad DevOps assignment",
+  "scripts": { "start": "node server.js" }
+}
